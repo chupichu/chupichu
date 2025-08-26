@@ -1,9 +1,8 @@
 ### ¡Hola! Soy **chupichu** 👋  
-Desarrollador Web / Android. Siempre creando algo nuevo con curiosidad y pasión.
+Desarrollador Web / Android. Siempre creando cosas nuevas con curiosidad y pasión ^_^
 
--  Actualmente trabajando en: AiMusic / 爱音乐 , notion personal, portafolio. 
--  Aprendiendo: técnicas de Ux & Ui, kotlin & Jetpack Compose & XML .
-
+-  Trabajando en: AiMusic / 爱音乐, mi Notion personal, portafolio.  
+-  Aprendiendo: UX & UI, Kotlin & Jetpack Compose & XML.  
 
 #### Herramientas y Tecnologías
 <p>
@@ -15,4 +14,8 @@ Desarrollador Web / Android. Siempre creando algo nuevo con curiosidad y pasión
 </p>
 
 #### Portafolio Personal
-<a href="https://aboutme-eosin-phi.vercel.app/"> Portafolio Personal</a>
+<a href="https://aboutme-eosin-phi.vercel.app/">Portafolio Personal</a>
+
+> Nota: El diseño UI no es mi fuerte 😅. Si alguien tiene sugerencias o ideas para añadir más apartados, estaré feliz de considerarlas ✨  
+
+^-^ ¡Gracias por pasar! (•‿•)
